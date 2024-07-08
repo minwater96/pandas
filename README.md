@@ -31,3 +31,28 @@
 - 2. csv
     - 2.1 csv-load
     - 2.2 csv-save
+
+## [03_query](03_query.ipynb)
+
+- head(), tail()
+- info()
+- value_count(), attribute()
+- astype()
+- sort()
+- loc[], iloc[]
+- where(), practice()
+
+## [04_statistic](04_statistics.ipynb)
+
+- describe(), count()
+- mean(), median()
+- var(), std()
+- min(), max(), agg()
+- quantile()
+- unique(), mode()
+
+## [05_missing_value](05_missing_value.ipynb)
+
+- isnull(), isna()
+- fillna()
+- dropna()
