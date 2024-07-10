@@ -56,3 +56,28 @@
 - isnull(), isna()
 - fillna()
 - dropna()
+
+## [06_preprocessing](06_preprocessing.ipynb)
+
+- columns 추가, 삭제, 연산
+- type 변환
+- datetime 관리
+- data 활용
+    - to_datetime
+    - to_numeric
+    - cut
+    - qcut
+
+## [07_group](07_group.ipynb)
+
+- apply()
+- groupby()
+- reset_index()
+- pivot_table()
+
+## [08_concat](08_concat.ipynb)
+
+- concat()
+- merge()
+
+## [09_titanic-practice](09-titanic-practice.ipynb)
